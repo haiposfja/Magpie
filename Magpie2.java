@@ -7,7 +7,7 @@
  * </ul>
  * This version uses a nested if to handle default responses.
  * 
- * @author Laurie White
+ * @author Laurie White, Edited by Ryken Santillan
  * @version April 2012
  */
 public class Magpie2 {
