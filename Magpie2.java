@@ -8,7 +8,7 @@
  * This version uses a nested if to handle default responses.
  * 
  * @author Laurie White, Edited by Ryken Santillan
- * @version April 2012
+ * @version April 2012, Edited 3/22/2021
  */
 public class Magpie2 {
 	/**
