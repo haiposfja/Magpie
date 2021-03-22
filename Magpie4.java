@@ -5,8 +5,8 @@
  * <li>Will transform statements as well as react to keywords</li>
  * </ul>
  * 
- * @author Laurie White
- * @version April 2012
+ * @author Laurie White, Edited by Ryken Santillan
+ * @version April 2012, Edited 3/22/2021
  *
  */
 public class Magpie4 {
